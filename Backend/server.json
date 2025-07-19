@@ -1,0 +1,10 @@
+{
+  "apps" : [{
+    name   : "server",
+    script : "java",
+    args   : [
+    	"-jar",
+      	"build/libs/extfilter-0.0.1-SNAPSHOT.jar"
+    ]
+  }]
+}
